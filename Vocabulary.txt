@@ -135,3 +135,20 @@ quyền làm điều gì -> defind: the act of allowing someone to do something,
 120, profit - :lợi nhuận
 121, promptly - : ngay lập tức
 122, banquet - :bữa tiệc lớn
+
+123, consequences - ˈkɑːn.sə.kwəns: hậu quả
+124, purchased - ˈpɝː.tʃəs: đã mua
+125, alarm - əˈlɑːrm: báo động
+126, disgust - [dɪsˈɡʌst: ghê tởm
+127, sophisticated - səˈfɪs.tə.keɪ.t̬ɪd: cầu kỳ, giả mạo
+128, shelf - shelf: kệ tủ
+129, innocent - ˈɪn.ə.sənt: vô tội, ngây thơ
+130, lady - leidi: quý bà
+131, trade - [treɪd]: buôn bán
+132, convenient - [kənˈviː.ni.ənt]: thuận lợi, tiện nghi, tiện lợi
+
+133, stupid - ˈstjuː.pɪd: ngốc nghếch
+134, frustrating - frʌsˈtreɪ.tɪŋ: làm nản lòng, bực bội
+135, express - ɪkˈspres: thể hiện, tốc hành , biểu hiện
+136, tear - teər: giống như giọt nước mắt, nước mắt; xé, chỗ rách của quần áo
+
